@@ -1,5 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I'm+Eric+Baena!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Exo&weight=600&size=40&duration=4000&pause=1000&color=0492C2&background=FFFFFF00&center=true&width=390&height=100&lines=%F0%9F%91%8B+Welcome!+%F0%9F%91%8B;%F0%9F%93%9A+I'm+Eric+Baena+%F0%9F%93%9A" />
+    
+    
 </h1>
 
 <h3 align="center">A passionate web developer from Spain 🇪🇸</h3>
