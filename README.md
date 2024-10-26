@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I'm currently studying **Web Development**.
+ 🔭 I'm currently studying **Web Development** at Stucom
  
  🌱 I’m currently learning **JS, PHP, Symfony, Angular**
 
