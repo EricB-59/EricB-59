@@ -4,15 +4,15 @@
     
 </h1>
 
-<h3 align="center">Future Web Developer from Spain 🇪🇸</h3>
+<h3 align="center">Full Stack Web Developer from Spain 🇪🇸</h3>
 
 <div align="center">
- 
- 🔭 I'm currently studying **Web Development** at Stucom
- 
- 🌱 I’m currently learning **JS, PHP, Symfony, Angular**
+ 
+ 🔭 I'm currently building web applications and solutions.
+ 
+ 💻 My main tech stack includes **JS, PHP, Symfony, Angular**
 
- </div>
+ </div>
  
 <div align="center"> 
   <a href="mailto:ebaenac59@gmail.com">
