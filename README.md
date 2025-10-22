@@ -12,7 +12,7 @@
 </div>
 <br>
 <div align="center">
-     💻 My main tech stack includes **JS, PHP, Symfony, Angular**
+     💻 My main tech stack includes JS, TS, PHP, Angular, React, Astro, Symfony, Laravel
 </div>
  <br>
 <div align="center"> 
