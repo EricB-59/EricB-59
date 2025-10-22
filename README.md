@@ -9,11 +9,12 @@
 <div align="center">
  
  🔭 I'm currently building web applications and solutions.
- 
- 💻 My main tech stack includes **JS, PHP, Symfony, Angular**
-
- </div>
- 
+</div>
+<br>
+<div align="center">
+     💻 My main tech stack includes **JS, PHP, Symfony, Angular**
+</div>
+ <br>
 <div align="center"> 
   <a href="mailto:ebaenac59@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
